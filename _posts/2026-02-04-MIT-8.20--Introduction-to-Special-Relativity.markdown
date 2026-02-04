@@ -1,0 +1,12 @@
+---
+title: "MIT(8.20) Introduction to Special Relativity"
+link: "/MIT-8.20--Introduction-to-Special-Relativity"
+category: undergraduate
+area: Physics
+layout: default
+modal-id: 1
+date: 2026-02-04
+img: introduction-to-special-relativity.png
+alt: image-alt
+description: The theory of special relativity, originally proposed by Albert Einstein in his famous 1905 paper, has had profound consequences on our view of physics, space, and time. This course will introduce you to the concepts behind special relativity including, but not limited to, length contraction, time dilation, the Lorentz transformation, relativistic kinematics, Doppler shifts, and even so-called “paradoxes.” - Prof. Markus Klute
+---
